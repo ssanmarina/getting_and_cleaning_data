@@ -4,5 +4,5 @@
 ## find tidy UCI HAR Dataset in tidy_data 
 ## find R code in run_analysis.md 
 ## find code book in codeBook.md 
-## Unzip (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) into  ## C:\Users\yourname\Documents\R\ folder 
+## source data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
